@@ -123,7 +123,7 @@ This includes:
 
 I highly value open-source, and the content of this course is therefore free
 to use under the Apache 2.0 license. If you use parts of this course in your
-own work, please cite using:
+own work, please cite using                                                       :
 
 ```bibtex
 @misc{skafte_mlops,
